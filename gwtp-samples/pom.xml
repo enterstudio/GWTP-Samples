@@ -90,7 +90,7 @@
         <arcbees-checkstyle.version>1.2</arcbees-checkstyle.version>
 
         <!-- testing -->
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jukito.version>1.5</jukito.version>
 
         <target.jdk>1.8</target.jdk>
